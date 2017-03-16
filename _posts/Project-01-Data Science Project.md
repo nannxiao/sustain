@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Greater Seattle Area Home Value & Tech Jobs Boom Data Analytics Project
+title:  Seattle Home Value & Tech Jobs Boom Data Analysis Project
 tags:
 - Data Analytics
 - R Programming
@@ -15,26 +15,6 @@ tags:
 
 <p>Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.</p>
 
-
-<hr />
-
-<h2 id="media">Media</h2>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-
-<h3 id="bigimage">Big Image</h3>
-
-<p><img src="http://demo.ghost.io/content/images/2014/09/testimg1.jpeg" alt="Test Image" /></p>
-
-<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-
-<h3 id="smallimage">Small Image</h3>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-
-<p><img src="http://demo.ghost.io/content/images/2014/09/testimg2.jpg" alt="Small Test Image" /></p>
-
-<p>Labore et dolore.</p>
 
 <hr />
 
