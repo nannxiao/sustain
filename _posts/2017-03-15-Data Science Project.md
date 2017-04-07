@@ -8,15 +8,14 @@ tags:
 - Data Visualization
 ---
 
-> This project examined the correlation between **home value prices** and the increase in **technology jobs** within the Greater Seattle Area from 2012 to 2016. It utilized data taken from Zillow as well as the Quarterly Census of Employment and Wage in order to evaluate their relationship. We had predicted that these the technology job boom has had a positive impact on house prices. A series of methods such as a time series analysis and multiple linear regression, had indicated statistically significant correlations between the two.
+> This project examined the correlation between **home value prices** and the increase in **technology jobs** within the Greater Seattle Area from 2012 to 2016. It utilized data taken from Zillow as well as the Quarterly Census of Employment and Wage in order to evaluate their relationship. We had predicted that these the technology job boom has had a positive impact on house prices. A series of methods such as **time series analysis** and **multiple linear regression**, had indicated statistically significant correlations between the two.
 
-<p>This is just an <em>ipsis verbis</em> copy of the first example running on the <a href="http://demo.ghost.io">Ghost Demo</a>. This shows how you can use html styling to achieve your hopes.</p>
+<h3 id="Key Complements">Key Complements</h3>
 * Delivered statistical analysis on over 100,000 tuples of data using R packages including plyr, dplyr, tidyr, reshape2 and lubridate
 * Performed multiple linear regression, logistic regression, SVM and time series analysis on two datasets to find correlations and seasonality trends using forecast, lattice, zoo, quantmod and xts packages
 * Plotted choropleth map, facet plots and quantile plots to perform interactive visualizations using ggplot2 and splines packages
-<p>Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.</p>
 
-<hr />
+------
 
 <h3 id="slides">Slides</h3>
 
