@@ -15,7 +15,7 @@ tags:
 * Performed multiple linear regression, logistic regression, SVM and time series analysis on two datasets to find correlations and seasonality trends using forecast, lattice, zoo, quantmod and xts packages
 * Plotted choropleth map, facet plots and quantile plots to perform interactive visualizations using ggplot2 and splines packages
 
-------
+<hr />
 
 <h3 id="slides">Slides</h3>
 
