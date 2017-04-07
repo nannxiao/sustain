@@ -17,15 +17,6 @@ tags:
 
 <hr />
 
-<h3 id="slides">Slides</h3>
-
-<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<h3 id="Contents">Contents</h3>
 
 <script async class="speakerdeck-embed" data-id="f4b5d0a178614c38a8ce2a38ff6dd514" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
-
-
-<p>See the Pen <a href='http://codepen.io/rglazebrook/pen/bcqhe/'>Simple Rotating Spinner</a> by Rob Glazebrook (<a href='http://codepen.io/rglazebrook'>@rglazebrook</a>) on <a href='http://codepen.io'>CodePen</a>.</p>  
-
-<p></div><script async src="//codepen.io/assets/embed/ei.js"></script></p>
-
-<p>Isn't it beautiful.</p>
